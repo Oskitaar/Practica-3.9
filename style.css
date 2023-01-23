@@ -4,8 +4,13 @@ header#titulo{
     font-size: 9ch;
 }
 
+a#escudo{
+    float: left;
+}
+
 body{
-    background-color: orange;
+    background-color: orangered;
+    opacity: 90%;
 }
 
 nav{
@@ -22,6 +27,8 @@ p{
     font-size: 5ch;
 }
 
+
+
 img{
     height: 150px;
     width: 150px;
@@ -31,4 +38,9 @@ img#valencia{
     top: 4cm;
     height: 350px;
     width: 700px;
+}
+
+img#escudo{
+    height: 63px;
+    width: 63px;
 }
