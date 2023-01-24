@@ -10,7 +10,7 @@ a#escudo{
 }
 
 body{
-    background-color: orangered;
+    background-color: orangeRED;
     opacity: 90%;
 }
 
@@ -33,6 +33,10 @@ p{
 img{
     height: 150px;
     width: 150px;
+}
+
+img:hover{
+    transform: scale(120%);
 }
 
 img#valencia{
